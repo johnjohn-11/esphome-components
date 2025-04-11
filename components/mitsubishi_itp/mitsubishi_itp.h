@@ -18,7 +18,7 @@ namespace mitsubishi_itp {
 
 static constexpr char TAG[] = "mitsubishi_itp";
 
-const uint8_t MITP_MIN_TEMP = 16;  // Degrees C
+const uint8_t MITP_MIN_TEMP = 10;  // Degrees C
 const uint8_t MITP_MAX_TEMP = 31;  // Degrees C
 const float MITP_TEMPERATURE_STEP = 0.5;
 
